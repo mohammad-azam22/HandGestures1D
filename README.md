@@ -15,8 +15,8 @@ HandGestures1D is a Python project that uses OpenCV and MediaPipe to detect hand
 This project leverages computer vision techniques to detect hand gestures in real-time using a webcam. The detected gestures are then used to simulate keyboard inputs, making it possible to control applications without touching the keyboard.
 
 ## Features
-- Real-time hand gesture detection
-- Control keyboard inputs based on gestures
+- Real-time hand gesture detection<br>
+- Control keyboard inputs based on gestures<br>
 - Easy to set up and use
 
 ## Installation
@@ -36,7 +36,7 @@ This project leverages computer vision techniques to detect hand gestures in rea
   2. Run the script:
     `python hand_gestures.py`
   3. Use hand gestures to control the keyboard inputs:
-    - Move your thumb above your little finger to simulate a “left” key press (Shown in figure).
+    - Move your thumb above your little finger to simulate a “left” key press (Shown in figure).<br>
     - Move your thumb below your little finger to simulate a “right” key press (Shown in figure).
   
   ![Left Key](https://github.com/user-attachments/assets/4dadacc7-7dde-4584-8ccc-cd63a793d515)
