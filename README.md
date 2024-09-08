@@ -36,8 +36,8 @@ This project leverages computer vision techniques to detect hand gestures in rea
   2. Run the script:
     `python hand_gestures.py`
   3. Use hand gestures to control the keyboard inputs:
-    - Move your thumb above your little finger to simulate a “left” key press (Shown in figure).<br>
-    - Move your thumb below your little finger to simulate a “right” key press (Shown in figure).
+      - Move your thumb above your little finger to simulate a “left” key press (Shown in figure).<br>
+       - Move your thumb below your little finger to simulate a “right” key press (Shown in figure).
   
   ![Left Key](https://github.com/user-attachments/assets/4dadacc7-7dde-4584-8ccc-cd63a793d515)
   ![No Key](https://github.com/user-attachments/assets/56f09d6f-37da-49c5-897b-93fc1ecf627b)
