@@ -1,0 +1,5 @@
+cvzone==1.6.1
+keyboard==0.13.5
+mediapipe==0.10.14
+opencv-contrib-python==4.10.0.84
+opencv-python==4.10.0.84
